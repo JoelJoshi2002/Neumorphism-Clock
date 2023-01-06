@@ -22,8 +22,13 @@ The clock will automatically display the current time and update every minute.
 Customization
 You can customize the design of the clock by modifying the CSS in the style.css file.
 
+## Preview
+
+preview of the project is available as screenshots along with the codes..
+
 ## Contributions
 
 If you would like to contribute to this project, please fork the repository and make your changes in a separate branch. Once you have tested and debugged your changes, you can submit a pull request for review.
 
 I welcome all contributions and suggestions!
+
