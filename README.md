@@ -3,7 +3,7 @@
 This is a JavaScript clock that has a neumorphic design implemented in CSS. The clock displays the current time and updates every second.
 
 
-##How it works
+## How it works
 
 The clock works by using JavaScript to get the current time and update the clock display. The neumorphic design is achieved through the use of CSS.
 
